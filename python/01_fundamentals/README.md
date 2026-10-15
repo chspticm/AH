@@ -82,7 +82,7 @@ result = greet("John")
 3. Implement a program that converts Celsius to Fahrenheit
 4. Create a simple calculator with basic operations
 
-## Assessment Criteria
+## Practice Goals
 
 - Understanding of Python syntax and semantics
 - Correct use of variables and data types

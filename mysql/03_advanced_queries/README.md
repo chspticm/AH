@@ -1,5 +1,7 @@
 # Advanced Queries
 
+The topics in this section are optional SQL enrichment. The course specification and current assessment task define the SQL operations required for assessment; do not assume every advanced feature below is examinable.
+
 ## Topics Covered
 
 1. **Complex JOINs**
@@ -72,7 +74,7 @@ WHERE department = 'Sales';
 4. Analyze query execution plans
 5. Optimize slow-running queries
 
-## Assessment Criteria
+## Practice Goals
 
 - Correct use of advanced SQL features
 - Query optimization

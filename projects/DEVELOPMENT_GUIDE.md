@@ -4,6 +4,12 @@
 
 This guide provides a structured approach to developing SQA Advanced Higher Computing Science projects. It covers the entire project lifecycle from conception to evaluation.
 
+> **Assessment reference:** Use the [current SQA Project Assessment Task](https://www.sqa.org.uk/sqa/files_ccc/ah-cat-computing-science.pdf) as the authority. Version 4.0 is valid from session 2026-27. This guide is supplementary advice; its suggested techniques and documents are not additional SQA requirements.
+
+The project is worth 80 marks: analysis of the problem (10), design of the solution (20), implementation (30), testing the solution (15), and evaluation of the solution (5). The course specification permits four project configurations: SDD using object-oriented programming with DDD; SDD using procedural programming with DDD; DDD with SDD or WDD; and WDD with DDD. The version 4.0 assessment task provides specific DDD and WDD task formats, each with ten mandatory functional requirements. Follow the format assigned to your project and use its exact requirements and templates.
+
+For the version 4.0 DDD and WDD task formats, address all ten functional requirements in analysis, design, implementation, and final testing. The task groups FR1-FR5 around data structures and Advanced Higher concepts, FR6 around integration, and FR7-FR10 around the user interface and input validation. Check the selected task pages for exact wording. The task also allocates 4 marks within implementation for evidence of ongoing testing.
+
 ## 1. Project Understanding Phase
 
 ### Read and Analyze Requirements
@@ -184,7 +190,9 @@ Notes: [Any observations]
 - Testing report
 - Evaluation report
 
-## Checklist for Project Completion
+## Suggested Self-Management Checklist
+
+The week numbers below are examples only. Use the assessment task's marking instructions and your centre's arrangements to plan your work; this guide's phases are not a required SQA sequence.
 
 ### Analysis (Week 1-2)
 - [ ] Requirements understood and documented

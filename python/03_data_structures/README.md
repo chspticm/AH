@@ -97,7 +97,7 @@ difference = set1 - set2
 4. Create a duplicate remover using sets
 5. Build a word frequency counter
 
-## Assessment Criteria
+## Practice Goals
 
 - Correct selection of data structures for problems
 - Proper use of data structure methods

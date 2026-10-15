@@ -169,7 +169,7 @@ $stmt->bind_param("s", $email);
 4. Develop a product listing page with database
 5. Implement user profile management
 
-## Assessment Criteria
+## Practice Goals
 
 - Correct PHP syntax
 - Proper form validation and sanitization

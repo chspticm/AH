@@ -8,9 +8,14 @@
 - [Python Type Hints](https://docs.python.org/3/library/typing.html)
 
 ### MySQL
+
 - [MySQL Official Documentation](https://dev.mysql.com/doc/)
 - [SQL Reference](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
 - [MySQL Workbench](https://dev.mysql.com/products/workbench/)
+
+### SQLite
+
+- [SQLite Documentation](https://www.sqlite.org/docs.html)
 
 ### PHP
 - [PHP Official Documentation](https://www.php.net/manual/en/)
@@ -85,11 +90,11 @@
 
 ## SQA Resources
 
+- [Advanced Higher Computing Science course specification, edition 5.0 (valid from 2026-27)](https://www.sqa.org.uk/sqa/files_ccc/ah-course-spec-computing-science.pdf)
+- [Advanced Higher Computing Science project assessment task, version 4.0 (valid from 2026-27)](https://www.sqa.org.uk/sqa/files_ccc/ah-cat-computing-science.pdf)
 - [SQA Computing Science](https://www.sqa.org.uk/sqa/47896.html)
 - [Advanced Higher Computing Science](https://www.sqa.org.uk/sqa/47907.html)
-- Past Papers and Marking Schemes
-- Assessment Guidelines
-- Unit Specifications
+- Use the course page for current past papers, marking instructions, and supporting documents.
 
 ## Recommended Reading
 

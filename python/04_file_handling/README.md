@@ -98,7 +98,7 @@ with open("output.csv", "w", newline="") as f:
 4. Implement a student record system with file persistence
 5. Build a data backup system using serialization
 
-## Assessment Criteria
+## Practice Goals
 
 - Correct file opening and closing procedures
 - Proper use of context managers

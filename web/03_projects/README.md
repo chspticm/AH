@@ -1,8 +1,10 @@
-# Full Stack Projects
+# Full-Stack Project Ideas
 
-## Project Overview
+These are project outlines for optional practice, not SQA-issued assessment projects. This repository currently contains no implementation files; the file lists below suggest possible structures only.
 
-This section contains complete full-stack web application projects that integrate HTML/CSS, PHP, and MySQL. Each project demonstrates real-world development practices and SQA assessment requirements.
+## Project Outlines
+
+Each idea can be used to practise integrating HTML/CSS, PHP, and MySQL. Check the official course specification and current project assessment task for assessed requirements.
 
 ## Project 1: Student Registration System
 
@@ -18,8 +20,8 @@ This section contains complete full-stack web application projects that integrat
 - Backend: PHP
 - Database: MySQL
 
-### Files
-- `01_student_registration/` - Complete project directory
+### Suggested Structure
+- `01_student_registration/` - Suggested project directory
 - `index.html` - Landing page
 - `register.html` - Registration form
 - `login.php` - Authentication logic
@@ -49,8 +51,8 @@ This section contains complete full-stack web application projects that integrat
 - Backend: PHP
 - Database: MySQL
 
-### Files
-- `02_product_catalog/` - Complete project directory
+### Suggested Structure
+- `02_product_catalog/` - Suggested project directory
 - `index.php` - Product listing
 - `product.php` - Product details
 - `category.php` - Category filtering
@@ -80,8 +82,8 @@ This section contains complete full-stack web application projects that integrat
 - Backend: PHP
 - Database: MySQL
 
-### Files
-- `03_blog_application/` - Complete project directory
+### Suggested Structure
+- `03_blog_application/` - Suggested project directory
 - `index.php` - Blog listing
 - `post.php` - Post details with comments
 - `create_post.php` - Create new post
@@ -113,8 +115,8 @@ This section contains complete full-stack web application projects that integrat
 - Backend: PHP
 - Database: MySQL
 
-### Files
-- `04_task_management/` - Complete project directory
+### Suggested Structure
+- `04_task_management/` - Suggested project directory
 - `dashboard.php` - Main task view
 - `create_task.php` - Task creation
 - `edit_task.php` - Edit tasks
@@ -147,7 +149,7 @@ This section contains complete full-stack web application projects that integrat
 - Text editor or IDE
 - Browser for testing
 
-## Assessment Criteria
+## Practice Goals
 
 - Correct implementation of all features
 - Proper form validation

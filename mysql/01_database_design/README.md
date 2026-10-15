@@ -88,7 +88,7 @@ CREATE TABLE enrollments (
 3. Design a social media database with users, posts, and comments
 4. Create a library management system database
 
-## Assessment Criteria
+## Practice Goals
 
 - Appropriate use of data types
 - Correct primary and foreign key implementation

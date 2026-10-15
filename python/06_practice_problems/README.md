@@ -66,7 +66,7 @@
 - `advanced_problems.py` - Advanced level problems and solutions
 - `project_solutions.py` - Complete project examples
 
-## Assessment Criteria
+## Practice Goals
 
 - Correct problem-solving approach
 - Clean and readable code

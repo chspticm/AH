@@ -81,7 +81,7 @@ Implement a library management system:
 - Calculate late fees
 - Generate member reports
 
-## Assessment Criteria
+## Practice Goals
 
 - Correct SQL syntax and execution
 - Appropriate query design

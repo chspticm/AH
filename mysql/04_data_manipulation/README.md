@@ -88,7 +88,7 @@ COMMIT;
 4. Create and test transaction scenarios
 5. Backup and restore database data
 
-## Assessment Criteria
+## Practice Goals
 
 - Correct INSERT, UPDATE, DELETE syntax
 - Proper use of WHERE clauses

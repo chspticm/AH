@@ -33,9 +33,23 @@
 - `05_dynamic_programming.py` - Dynamic programming concepts
 - `06_exercises.py` - Algorithm practice problems
 
+## Running the Examples
+
+Run a script from the repository root with Python 3.8 or later. Each script includes sample output and assertions for its main examples.
+
+```console
+python python/05_algorithms/01_sorting.py
+python python/05_algorithms/02_searching.py
+python python/05_algorithms/03_complexity.py
+python python/05_algorithms/04_recursion.py
+python python/05_algorithms/05_dynamic_programming.py
+python python/05_algorithms/06_exercises.py
+```
+
 ## Key Concepts
 
 ### Linear Search
+
 ```python
 def linear_search(arr, target):
     for i in range(len(arr)):
@@ -45,6 +59,7 @@ def linear_search(arr, target):
 ```
 
 ### Binary Search
+
 ```python
 def binary_search(arr, target):
     left, right = 0, len(arr) - 1
@@ -61,6 +76,7 @@ def binary_search(arr, target):
 ```
 
 ### Bubble Sort
+
 ```python
 def bubble_sort(arr):
     n = len(arr)
@@ -72,6 +88,7 @@ def bubble_sort(arr):
 ```
 
 ### Time Complexity Examples
+
 - **O(1)**: Constant time (array access)
 - **O(log n)**: Logarithmic (binary search)
 - **O(n)**: Linear (linear search)
@@ -87,7 +104,7 @@ def bubble_sort(arr):
 4. Build a recursive solution for a classic problem
 5. Implement a dynamic programming solution
 
-## Assessment Criteria
+## Practice Goals
 
 - Correct algorithm implementation
 - Understanding of time complexity

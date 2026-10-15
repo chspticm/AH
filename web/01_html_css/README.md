@@ -142,7 +142,7 @@ div p { }        /* Descendant selector */
 4. Create an accessible navigation menu
 5. Build a responsive blog layout
 
-## Assessment Criteria
+## Practice Goals
 
 - Valid HTML and CSS syntax
 - Semantic HTML usage

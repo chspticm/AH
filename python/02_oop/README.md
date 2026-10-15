@@ -87,7 +87,7 @@ class BankAccount:
 3. Implement a `BankAccount` class with deposit and withdraw methods
 4. Create a `Library` system with `Book` and `Member` classes
 
-## Assessment Criteria
+## Practice Goals
 
 - Correct class and object design
 - Proper use of inheritance

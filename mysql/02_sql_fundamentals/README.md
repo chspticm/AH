@@ -12,7 +12,6 @@
    - INNER JOIN
    - LEFT JOIN
    - RIGHT JOIN
-   - FULL OUTER JOIN
 
 3. **Aggregation**
    - COUNT, SUM, AVG, MAX, MIN
@@ -23,6 +22,8 @@
    - Scalar Subqueries
    - Correlated Subqueries
    - IN, EXISTS Operators
+
+MySQL does not implement `FULL OUTER JOIN` directly. This practice section focuses on MySQL-supported join syntax.
 
 ## Files in This Section
 
@@ -108,7 +109,7 @@ WHERE course_id IN (
 4. Create complex queries using subqueries
 5. Combine multiple concepts in a single query
 
-## Assessment Criteria
+## Practice Goals
 
 - Correct SQL syntax
 - Appropriate use of WHERE clauses
